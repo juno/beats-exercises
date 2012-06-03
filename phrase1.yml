@@ -1,0 +1,25 @@
+Song:
+  Tempo: 165
+  Flow:
+    - Verse1: x1
+    - Verse2: x3
+  Kit:
+    - bass: sounds/acoustic_2_1.wav
+    - snare: sounds/acoustic_2_2.wav
+    - ride-cym: sounds/acoustic_2_3.wav
+    - closed-hh: sounds/acoustic_2_4.wav
+    - open-hh: sounds/acoustic_2_5.wav
+    - crash-cym: sounds/acoustic_2_5.wav
+
+Verse1:
+  - crash-cym: X...............
+  - open-hh:   ......X...X...X.
+  - closed-hh: ...X...X........
+  - snare:     ....X.......X...
+  - bass:      X.......X.......
+
+Verse2:
+  - open-hh:   ..X...X...X...X.
+  - closed-hh: ...X...X........
+  - snare:     ....X.......X...
+  - bass:      X.......X.......
